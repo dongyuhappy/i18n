@@ -1,24 +1,11 @@
 {
   "name": "simple/i18n",
-  "description": "一个简单的laravel5国际化插件",
-  "keywords": [
-    "laravel",
-    "gettext",
-    "国际化"
-  ],
-  "homepage": "https://github.com/dongyuhappy/gettext",
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "dongyu",
-      "email": "357263020@qq.com"
-    }
-  ],
+  "description": "i18n,laravel,simple",
   "require": {
     "php": ">=5.4.0",
     "ext-gettext": "*",
-    "illuminate/config": "~5.0",
-    "illuminate/support": "~5.0"
+    "illuminate/support": "^5.1",
+    "illuminate/config": "^5.10"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.0"
@@ -28,5 +15,10 @@
       "Vendor\\Simple\\I18n": "src/"
     }
   },
-  "minimum-stability": "dev"
+  "authors": [
+    {
+      "name": "dongyu",
+      "email": "dongyuhappy@gmail.com"
+    }
+  ]
 }
