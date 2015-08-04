@@ -1,5 +1,5 @@
 <?php
-namespace Vendor\Simple\I18n;
+namespace Simple\I18n;
 
 use Illuminate\Support\ServiceProvider as LaravelServiceProvider;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Vendor\Simple\I18n;
+namespace Simple\I18n;
 
 
 class I18n
