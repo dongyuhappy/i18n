@@ -135,7 +135,7 @@ return [
 
 ## 注意事项
 
-1. mo文件的命名规则必须是 `:local_dir/:local/LC_MESSAGES/:domian.mo`
+1. mo文件的命名规则必须是 `:locale_dir/:locale/LC_MESSAGES/:domian.mo`
 2. 待翻译的字符串必须是ASCII
 
 
