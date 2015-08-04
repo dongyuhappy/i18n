@@ -12,7 +12,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Vendor\\Simple\\I18n": "src/"
+      "Simple\\I18n\\": "src/"
     }
   },
   "authors": [
